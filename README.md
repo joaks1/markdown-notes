@@ -125,7 +125,7 @@ You can create unordered lists using asterisks `*`, dashes `-`, or pluses `+`.
     with the text above.
 
 -   Third item
-    - A sub item
+    -   A sub item
 -   A forth item
 ```
 -   First item
@@ -135,7 +135,7 @@ You can create unordered lists using asterisks `*`, dashes `-`, or pluses `+`.
     with the text above.
 
 -   Third item
-    - A sub item
+    -   A sub item
 -   A forth item
 
 ---
