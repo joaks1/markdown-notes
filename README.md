@@ -47,12 +47,16 @@ For example, I want to emphasize *these words* and these _other words_.
 ```
 For example, I want to emphasize *these words* and these _other words_.
 
+---
+
 You can **bold** text by surrounding it with **two** asterisk or underscore
 characters.
 ```no-highlight
 For example, I want to bold **these words** and these __other words__.
 ```
 For example, I want to bold **these words** and these __other words__.
+
+---
 
 Why two ways to do the same thing?! Good question, but it does allow us to
 nest one inside the other in a more readable fashion.
@@ -72,6 +76,7 @@ is a bit more readable than
 These notes are an **absolute *disaster***!
 
 but both work.
+
 
 ## Paragraphs
 
@@ -133,6 +138,8 @@ You can create unordered lists using asterisks `*`, dashes `-`, or pluses `+`.
     - A sub item
 -   A forth item
 
+---
+
 If you want to enumerate the list, then use numbers.
 ```no-highlight
 1.  First item
@@ -170,6 +177,8 @@ about MarkDown.
 ```
 Try this [little-known search engine](https://www.google.com) to learn more
 about MarkDown.
+
+---
 
 You can use angle brackets to turn a URL into a link
 ```no-highlight
@@ -223,6 +232,8 @@ Or by surrounding the line with triple backticks:
 ```
 print("Hello World")
 ```
+
+---
 
 <pre lang="no-highlight"><code>
 The triple backticks has the advantage of being able
