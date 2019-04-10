@@ -247,7 +247,7 @@ for i in range(10):
 ```
 </code></pre>
 
-The triple backticks has the advantage of being able
+The triple backticks have the advantage of being able
 to specify the language for nice syntax highlighting:
 
 ```python
