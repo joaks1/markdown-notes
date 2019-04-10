@@ -236,7 +236,7 @@ print("Hello World")
 ---
 
 <pre lang="no-highlight"><code>
-The triple backticks has the advantage of being able
+The triple backticks have the advantage of being able
 to specify the language for nice syntax highlighting:
 
 ```python
