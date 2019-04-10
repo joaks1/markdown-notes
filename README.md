@@ -132,4 +132,8 @@ text](PATH-or-URL-of-image "optional title text"`.
 ```
 ![Lizard photo](./images/gecko-photo.jpg "Cute gecko")
 
+![Lizard photo](https://github.com/joaks1/markdown-notes/raw/master/images/gecko-photo.jpg "Cute gecko")
 ```
+![Lizard photo](./images/gecko-photo.jpg "Cute gecko")
+
+![Lizard photo](https://github.com/joaks1/markdown-notes/raw/master/images/gecko-photo.jpg "Cute gecko")
