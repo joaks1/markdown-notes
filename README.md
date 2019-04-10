@@ -31,8 +31,8 @@ for full details on
 -   [Links](#links)
 -   [Images](#images)
 -   [Code and Syntax Highlighting](#code-and-syntax-highlighting)
--   [Inline code](inline-code)
--   [Code blocks](code-blocks)
+-   [Inline code](#inline-code)
+-   [Code blocks](#code-blocks)
 
 
 # Basic Text Formatting
